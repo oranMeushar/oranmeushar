@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-https://oranmeushar.github.io/oranmeushar/
 <!--
 **oranMeushar/oranMeushar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
